@@ -1,6 +1,6 @@
 # Exploratory-data-analysis-project-02
 Exploratory data analysis project-02
-Tackling Course Project 2 for the Johns Hopkins Exploratory Data Analysis class
+Tackling Course Project 2 for Exploratory Data Analysis on coursera
 
 EPA's PM2.5 National Emissions Inventory (NEI). It's a massive dataset, but breaking it down question by question makes it highly manageable.
 
